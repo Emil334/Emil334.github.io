@@ -1,1 +1,1 @@
-<a href="hw.html">ПРивет мир</a>
+<a href="hw.html">Привет мир</a>
